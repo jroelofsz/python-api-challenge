@@ -1,6 +1,12 @@
 #adding api keys
 api_keys.py
 
+#Adding starter code
+/Starter_Code 3
+
+#Mac
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
