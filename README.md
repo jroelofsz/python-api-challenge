@@ -8,7 +8,7 @@ In this deliverable, I created a Python script to visualize the weather of over 
 
 ## VacationPy
 
-n this deliverable, I used my weather data skills to plan future vacations. I also utilized Jupyter notebooks, the geoViews Python library, and the Geoapify API.
+In this deliverable, I used my weather data skills to plan future vacations. I also utilized Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 was provided to help me get started.
 
